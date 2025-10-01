@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But keep Python scripts
+!*.py
+
+# Keep the gitignore file itself
+!.gitignore
