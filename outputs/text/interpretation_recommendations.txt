@@ -1,0 +1,8 @@
+Interpretation & Recommendations
+============================================================
+
+See Excel tables in outputs/tables and figures in outputs/plots.
+- Objective 1: check 'ES_contributed' descriptive table and inferential sheets '..._vs_EScontrib'.
+- Objective 2: check 'Effectiveness_by_state' and 'Effectiveness_vs_WhichFaster' sheets.
+- Objective 3: challenges summary and 'Challenges_vs_EScontrib' sheet for associations.
+
